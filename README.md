@@ -1,5 +1,5 @@
 # Project Title
-Spark Java
+Spark Samples
 
 ## Description
 Spark Sample in Java
