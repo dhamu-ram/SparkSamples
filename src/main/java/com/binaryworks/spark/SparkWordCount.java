@@ -1,4 +1,4 @@
-package com.binaryworks;
+package com.binaryworks.spark;
 
 import org.apache.spark.SparkConf;
 import org.apache.spark.api.java.JavaPairRDD;

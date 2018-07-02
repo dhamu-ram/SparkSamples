@@ -1,4 +1,4 @@
-package com.binaryworks;
+package com.binaryworks.spark;
 
 public class ProjectCheck {
 
